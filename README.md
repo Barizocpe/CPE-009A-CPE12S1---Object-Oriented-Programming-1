@@ -14,7 +14,7 @@ This lies the repository in which includes my future and upcoming works in the O
 - 💻 Trying to learn **Python**  
 - ❓ Ask me about **nothing**  
 - 📫 How to reach me: **qjbbarizo@tip.edu.ph**  
-- 🤷 Fun fact: **I don't have any**  
+- 🤷 Fun fact: **I like spreading misinformation on the internet**  
 
 ---
 <p align="center">
