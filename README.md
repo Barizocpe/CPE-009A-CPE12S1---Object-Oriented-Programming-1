@@ -10,12 +10,14 @@ This lies the repository in which includes my future and upcoming works in the O
 ---
 
 ## 🐍 About Me
-- 🎓 I am currently a **second-year** student  
+- 🎓 I am currently a student in his Second Semester 
 - 💻 Trying to learn **Python**  
 - ❓ Ask me about **nothing**  
 - 📫 How to reach me: **qjbbarizo@tip.edu.ph**  
 - 🤷 Fun fact: **I don't have any**  
 
 ---
-
+<p align="center">
+  <img src="https://media1.tenor.com/m/dWjCdg6zG5EAAAAC/miyabi-no.gif" width="300" alt="gif" />
+</p>
 
