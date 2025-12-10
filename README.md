@@ -2,6 +2,7 @@
 This lies the repository in which includes my future and upcoming works in the Object Oriented Programming Course
 
 <h1 align="center">Hi 👋, I'm Julian!</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=barizocpe&label=Profile%20views&color=0e75b6&style=flat" alt="barizocpe" /> </p>
 
 <p align="center">
   <em>A College Student pursuing Computer Engineering at the Technological Institute of the Philippines</em>
